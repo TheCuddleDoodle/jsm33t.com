@@ -71,10 +71,7 @@ include $_SERVER['DOCUMENT_ROOT'] . "/includes/head.php";
                                 
                             </div>
                         </div>
-                        
-                        
-                        
-                        
+
                     </div>
                 </section>
                 <!-- End About Section -->

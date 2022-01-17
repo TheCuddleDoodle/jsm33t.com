@@ -1,9 +1,6 @@
 # jsm33t.com
 <div id="top"></div>
 
-
-
-
 <div align="center">
   <a href="https://github.com/jsm33t/jsm33t.com/">
     <img src="resources/images/j_logo_black.svg" alt="Logo" width="80" height="80">
