@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testimonials_db>
+
+    <testimonials> 
+        <test>
+            <PAGE>HOME PAGE / 0 </PAGE>
+            <title>'Nice hai 1'</title>
+            <author>Chimtu</author>
+        </test>
+      
+        <test>
+            <title>'naya add kr leta hu 4'</title>
+            <author>Hola</author>
+        </test>
+         <test>
+            <title>'naya add kr leta hu 4'</title>
+            <author>Hola</author>
+        </test>
+         <test>
+            <title>'naya add kr leta hu 4'</title>
+            <author>Hola</author>
+        </test>
+         <test>
+            <title>'naya add kr leta hu 4'</title>
+            <author>Hola</author>
+        </test>
+    </testimonials>
+
+
+
+    <testimonials> 
+        <test>
+        <PAGE>MUSIC PAGE / 1 </PAGE>
+            <title>'Nice hai 1'</title>
+            <author>Chimtu</author>
+        </test>
+      
+        <test>
+            <title>'naya add kr leta hu 4'</title>
+            <author>Hola</author>
+        </test>
+    </testimonials>
+
+
+     <testimonials> 
+        <test>
+        <PAGE>SECOND PAGE / 1 </PAGE>
+            <title>'Nice hai 1'</title>
+            <author>Chimtu</author>
+        </test>
+      
+        <test>
+            <title>'naya add kr leta hu 4'</title>
+            <author>Hola</author>
+        </test>
+    </testimonials>
+
+
+     <testimonials> 
+        <test>
+        <PAGE>SECOND PAGE / 1 </PAGE>
+            <title>'Nice hai 1'</title>
+            <author>Chimtu</author>
+        </test>
+      
+        <test>
+            <title>'naya add kr leta hu 4'</title>
+            <author>Hola</author>
+        </test>
+    </testimonials>
+
+</testimonials_db>
+
+
