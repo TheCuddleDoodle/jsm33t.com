@@ -17,8 +17,25 @@
     <a href="https://jsm33t.com" target="_blank"><strong>Live Site</strong></a>
     <br />
     <br />
- 
- 
   </p>
 </div>
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about">About</a></li>
+    <li><a href="#res">Resources</a></li>
+    <li><a href="#ext_links">External Links</a></li>
+  
+  </ol>
+</details>
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/JSM33T/jsm33t.com/blob/master/resources/images/promo.png?raw=true)
+
+Lorem Ipsum
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
