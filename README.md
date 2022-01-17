@@ -31,7 +31,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/JSM33T/jsm33t.com/blob/master/resources/images/promo.png?raw=true)
 
 Lorem Ipsum
 
