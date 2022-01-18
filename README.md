@@ -45,9 +45,9 @@
     <br />
     <a href="https://github.com/jsm33t/jsm33t.com">View Demo</a>
     ·
-    <a href="https://github.com/jsm33t/jsm33t.com">Report Bug</a>
+    <a href="https://github.com/jsm33t/jsm33t.com/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jsm33t/jsm33t.com">Request a feature</a>
+    <a href="https://github.com/jsm33t/jsm33t.com/issues">Request a feature</a>
   </p>
 </div>
 
@@ -153,13 +153,13 @@ Project Link: [https://github.com/jsm33t/jsm33t.com](https://github.com/jsm33t/j
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jsm33t/jsm33t.com.svg?style=for-the-badge
 [contributors-url]: https://github.com/jsm33t/jsm33t.com/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jsm33t/jsm33t.com.svg?style=for-the-badge
 [forks-url]: https://github.com/jsm33t/jsm33t.com/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jsm33t/jsm33t.com.svg?style=for-the-badge
 [stars-url]: https://github.com/jsm33t/jsm33t.com/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jsm33t/jsm33t.com.svg?style=for-the-badge
 [issues-url]: https://github.com/jsm33t/jsm33t.com/issues
 
 
