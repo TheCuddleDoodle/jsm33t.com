@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JSM33T/jsm33t.com">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="resources/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">jsm33t.com</h3>
